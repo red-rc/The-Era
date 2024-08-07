@@ -1,0 +1,44 @@
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\The Era.exe
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\The Era.deps.json
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\The Era.runtimeconfig.json
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\The Era.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\The Era.pdb
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.csproj.AssemblyReference.cache
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.AssemblyInfoInputs.cache
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.AssemblyInfo.cs
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.csproj.CoreCompileInputs.cache
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.csproj.Up2Date
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.dll
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\refint\The Era.dll
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.pdb
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\The Era.genruntimeconfig.cache
+C:\Users\avira\source\repos\The Era\The Era\obj\Debug\net6.0-windows\ref\The Era.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Content\textures\grass.xnb
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Content\textures\grounds.xnb
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Content\textures\groundToGrass.xnb
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Content\textures\player.xnb
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\INIFileParser.dll
+C:\Users\avira\source\repos\The Era\The Era\bin\Debug\net6.0-windows\Content\textures\ground.xnb
